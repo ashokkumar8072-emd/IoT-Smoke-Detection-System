@@ -95,7 +95,12 @@ Smoke Status Values:
 - Wi-Fi enabled IoT connectivity
 
 ---
+## Project Images
 
+### Circuit Diagram
+![Circuit Diagram](./circuit%20diagram.png)
+##image
+![Output](./image%20(2).jpeg)
 ## Results
 
 The system successfully detected smoke and generated immediate alerts through the LED and buzzer. The LCD displayed warning messages when smoke was detected. Sensor data was transmitted to the ThingSpeak cloud platform and visualized through real-time graphs. The project demonstrated reliable operation and effective integration of embedded hardware with cloud-based IoT services.
@@ -127,7 +132,7 @@ The system successfully detected smoke and generated immediate alerts through th
 
 ## Project Images
 
-Add screenshots of:
+Addedd screenshots of:
 - Circuit Diagram
 - Wokwi Simulation
 - LCD Output
@@ -145,4 +150,4 @@ This project successfully implements an IoT-based smoke detection and alert syst
 
 Ashok Kumar  
 B.E. Electronics and Communication Engineering (ECE)  
-Anna University
+Ramco institute of technology
