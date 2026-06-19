@@ -101,6 +101,9 @@ Smoke Status Values:
 ![Circuit Diagram](./circuit%20diagram.png)
 ##image
 ![Output](./image%20(2).jpeg)
+## Live IoT Dashboard
+
+[View ThingSpeak Dashboard]https://thingspeak.mathworks.com/channels/3412174/private_show
 ## Results
 
 The system successfully detected smoke and generated immediate alerts through the LED and buzzer. The LCD displayed warning messages when smoke was detected. Sensor data was transmitted to the ThingSpeak cloud platform and visualized through real-time graphs. The project demonstrated reliable operation and effective integration of embedded hardware with cloud-based IoT services.
